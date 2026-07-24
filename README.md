@@ -2,9 +2,7 @@
 
 ## Dashboard Preview
 
-> *(Insert your dashboard screenshot here after uploading `Dashboard.png`)*
-
-```markdown
+> *
 ![Dashboard](Dashboard.png)
 
 ```
