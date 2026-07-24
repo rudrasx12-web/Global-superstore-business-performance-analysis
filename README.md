@@ -2,131 +2,128 @@
 
 ## Dashboard Preview
 
-
 ![Dashboard](Dashboard.png)
 
+---
 
+# Project Overview
 
-```
+This project analyzes Global Superstore sales data using Microsoft Excel to transform raw business data into meaningful insights through Pivot Tables, Pivot Charts, KPIs, interactive Slicers, and a dynamic Executive Dashboard.
+
+The dashboard enables users to monitor overall business performance, compare regional sales and profitability, evaluate product category performance, and interactively filter business metrics for faster decision-making.
 
 ---
 
-## Project Overview
+# Business Objective
 
-This project was developed as part of the **Excel Skills for Business: Intermediate I** course offered by **Macquarie University**.
+The objective of this project is to:
 
-The objective of this project is to analyze retail sales data using Microsoft Excel and transform raw business data into meaningful insights through Pivot Tables, Pivot Charts, formulas, and an interactive dashboard.
-
----
-
-## Business Problem
-
-Retail businesses generate large volumes of sales data every day. Without proper analysis, it becomes difficult to identify profitable categories, monitor regional performance, and make informed business decisions.
-
-This project demonstrates how Microsoft Excel can be used to organize, analyze, and visualize business data to support better decision-making.
+- Analyze overall sales performance
+- Measure profitability across regions
+- Compare product category performance
+- Build an interactive dashboard for business users
+- Convert raw transactional data into actionable insights
 
 ---
 
-## Project Objectives
+# Dashboard Features
 
-- Clean and organize raw sales data
-- Perform business analysis using Excel formulas
-- Build dynamic Pivot Tables and Pivot Charts
-- Develop an interactive dashboard
-- Generate business insights and recommendations
-- Present key business performance indicators (KPIs)
-
----
-
-## Dataset Information
-
-- Dataset: Global Superstore
-- Industry: Retail
-- Source: Kaggle
-- Tool: Microsoft Excel
-
----
-
-## Skills Applied
-
-- Microsoft Excel
-- Data Cleaning
-- Data Analysis
-- Pivot Tables
-- Pivot Charts
-- Conditional Formatting
-- Data Visualization
-- Dashboard Design
-- KPI Reporting
-- Business Analytics
-
----
-
-## Dashboard Features
-
-- Sales Performance Analysis
-- Profit Analysis
-- Regional Performance
-- Category Analysis
-- KPI Summary
-- Interactive Filters (Slicers)
+- Executive KPI Dashboard
+- Total Sales
+- Net Profit
+- Profit Margin
+- Total Orders
+- Average Order Value
+- Average Profit per Order
+- Interactive Region Slicer
+- Interactive Product Category Slicer
 - Dynamic Pivot Charts
+- Regional Sales vs Profit Analysis
 
 ---
 
-## Key Business Insights
-
-- Technology generated the highest sales and maintained strong profitability.
-- Office Supplies delivered stable business performance.
-- Furniture recorded lower profit margins despite healthy sales.
-- Sales and profitability varied across different regions.
-- Interactive dashboards improved business performance monitoring.
-
----
-
-## Business Recommendations
-
-- Focus on high-margin product categories.
-- Review pricing and discount strategies for low-margin products.
-- Allocate resources to high-performing regions.
-- Continue monitoring KPIs through interactive dashboards.
-
----
-
-## Projected Business Impact & Value
-
-- Supports faster business decision-making.
-- Improves visibility into sales and profitability.
-- Reduces manual reporting effort.
-- Enables efficient KPI monitoring.
-- Provides a scalable reporting solution for future business analysis.
-
----
-
-## Tools Used
+# Tools Used
 
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Excel Formulas
 - Slicers
+- SUMIF
+- COUNTIF
+- AVERAGEIF
+- Cell Formatting
 - Conditional Formatting
+- Dashboard Design
 
 ---
 
-## Repository Contents
+# Key Performance Indicators (KPIs)
 
-- Business Performance Analysis Workbook (.xlsx)
-- Dashboard Screenshot (.png)
-- Project Report (.pdf)
+- Total Sales
+- Net Profit
+- Profit Margin
+- Number of Orders
+- Average Order Value
+- Average Profit per Order
+
+---
+
+# Business Insights
+
+- Central region generated the highest sales among the selected regions.
+- Profitability varies significantly across regions despite similar sales levels.
+- Technology is one of the strongest-performing product categories.
+- Interactive filters allow quick comparison across categories and regions.
+- Executive KPIs provide an instant overview of overall business performance.
+
+---
+
+# Business Recommendations
+
+- Increase investment in high-performing regions.
+- Improve profitability in lower-margin regions.
+- Expand high-performing product categories.
+- Continuously monitor KPIs using the dashboard.
+- Use data-driven insights to support strategic business decisions.
+
+---
+
+# Project Impact
+
+This dashboard helps business users:
+
+- Monitor performance in real time
+- Identify profitable regions
+- Compare product category performance
+- Improve reporting efficiency
+- Support strategic decision-making
+- Reduce manual analysis effort
+
+---
+
+# Repository Contents
+
+- Dashboard.png
+- Global-Superstore-Executive-Dashboard.xlsx
 - README.md
 
 ---
 
-## Author
+# Skills Demonstrated
+
+- Data Analysis
+- Business Analytics
+- Dashboard Design
+- KPI Development
+- Interactive Reporting
+- Data Visualization
+- Excel Automation
+- Business Intelligence
+
+---
+
+# Author
 
 **Rudra Sharma**
 
-Business Analytics | Data Analytics | Microsoft Excel
-
-Learning through real-world business projects.
+Business Analytics | Data Analysis | Microsoft Excel | Dashboard DevelopmentLearning through real-world business projects.
