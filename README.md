@@ -126,4 +126,5 @@ This dashboard helps business users:
 
 **Rudra Sharma**
 
-Business Analytics | Data Analysis | Microsoft Excel | Dashboard DevelopmentLearning through real-world business projects.
+Business Analytics | Data Analysis | Microsoft Excel | Dashboard 
+DevelopmentLearning through real-world business projects.
